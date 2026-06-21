@@ -32,7 +32,7 @@ def initialize_clean_pipeline():
         model_name="llama-3.1-8b-instant", 
         temperature=0.1,
         groq_api_key="GROQ_API_KEY"
-       
+
     )
 
     # Custom Guardrail prompt template to handle out-of-scope questions gracefully

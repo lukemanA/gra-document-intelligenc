@@ -1,1 +1,1 @@
-# gra-document-intelligenc
+# gra-document-intelligence
